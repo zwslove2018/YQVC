@@ -76,6 +76,7 @@
     <Compile Include="Ext\CorButton.cs" />
     <Compile Include="Ext\WaterMarkBox.cs" />
     <Compile Include="Ext\WaterPassword.cs" />
+    <Compile Include="Ext\WndHelper.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
